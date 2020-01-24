@@ -2,8 +2,22 @@ body {
   background-color: aliceblue;
 }
 
+.nav1 {
+  color: black;
+  background-color: lightyellow;
+  display: inline-block;
+  padding-right: 2em;
+  list-style: none;
+}
+
+.navbar {
+  text-align: center;
+  font-family: fantasy;
+  font-size: small;
+}
+
 h1 {
-  color: #66BFBF;
+  color: black;
 }
 
 h3 {
